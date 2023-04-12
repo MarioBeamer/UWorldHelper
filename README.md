@@ -5,6 +5,8 @@ MarioBeamer
 
 ## Introduction
 
+[Find the app here!](https://mariobeamer.shinyapps.io/UWorldHelper/)
+
 For reasons that remain unclear, UWorld does not make your performance
 data available as csv, text, or any other usable format. The only way to
 get your data is to “print” it to a PDF. This made me unreasonably salty
